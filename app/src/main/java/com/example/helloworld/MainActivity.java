@@ -6,10 +6,12 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import android.os.Bundle;
-import android.view.FrameMetrics;
 import android.view.MenuItem;
 import android.widget.FrameLayout;
 
+import com.example.helloworld.fragment.FragmentOne;
+import com.example.helloworld.fragment.FragmentThree;
+import com.example.helloworld.fragment.FragmentTwo;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {

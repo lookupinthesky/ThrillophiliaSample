@@ -1,11 +1,10 @@
-package com.example.helloworld;
+package com.example.helloworld.adapter;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentManager;
-import androidx.fragment.app.FragmentStatePagerAdapter;
-import androidx.lifecycle.Lifecycle;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
+
+import com.example.helloworld.fragment.PageFragment;
 
 //use statepageradapter for fragments stateadapter for other one
 
